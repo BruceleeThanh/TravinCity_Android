@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Travin City</string>
+    <string name="openDrawer">Open navigation drawer</string>
+    <string name="closeDrawer">Close navigation drawer</string>
+    <string name="services_url">http://103.237.98.230</string>
+    <string name="facebook_app_id">249534838730582</string>
+
+    <!--General-->
+    <string name="textview_error">Không thể để trống trường này</string>
+
+    <!--Login activity-->
+    <string name="font_Briannes_hand">font_Brianne_s_hand.ttf</string>
+    <string name="etUsername_hint">Tên đăng nhập</string>
+    <string name="etPassword_hint">Mật khẩu</string>
+    <string name="btnLogin">Đăng nhập</string>
+    <string name="tvOr">hoặc</string>
+    <string name="tvSignup"><u>Đăng ký</u></string>
+    <string name="tvForgetPassword">Quên mật khẩu?</string>
+    <string name="username_password_incorrect">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="dialog_services_error_title">Không thành công</string>
+    <string name="dialog_services_error_message">Hệ thống hiện đang bảo trì, vui lòng quay lại sau.</string>
+    <string name="dialog_services_error_dismiss">OK</string>
+
+    <!--Signup-->
+    <string name="tvSignupLabel">Đăng ký</string>
+    <string name="etEmail">Email</string>
+    <string name="tvTermsOfService">Chấp nhận điều khoản dịch vụ</string>
+    <string name="mesSuccess">Đăng ký thành công tài khoản:</string>
+
+    <!--Main activity-->
+
+
+    <!--Login APIs-->
+    <string name="loginURL">/login</string>
+
+</resources>
